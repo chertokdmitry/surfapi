@@ -1,2 +1,2 @@
-# bookstore_users-api
-Users API
+# surfbot-api
+SurfBot API
